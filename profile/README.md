@@ -1,5 +1,4 @@
 ## 🦄 About me
-<hr>
 ---
 ## 🛠️ My Toolbox
 <div>
