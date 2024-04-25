@@ -16,4 +16,6 @@
 
 <br />
 
+<hr />
+
 ## 🚀 My Showcase
