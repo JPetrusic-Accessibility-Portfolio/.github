@@ -7,11 +7,11 @@
 </div>
 <br style="padding:0; margin:0;"/>
 <div>
-          <img  align="left"  alt="html language" width="20" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-          <img  align="left" alt="html language" width="20" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-          <img  align="left" alt="html language" width="20" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-          <img  align="left" alt="html language" width="20" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
-          <img align="left"  alt="html language" width="20" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+          <img  align="left"  alt="html language" width="20" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          <img  align="left" alt="html language" width="20" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          <img  align="left" alt="html language" width="20" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+          <img  align="left" alt="html language" width="20" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
+          <img align="left"  alt="html language" width="20" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
 
 <br />
