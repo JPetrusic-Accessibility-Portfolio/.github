@@ -1,4 +1,4 @@
-## 🦄 About me
+## 🦄 My Intro
 ---
 ## 🛠️ My Toolbox
 <div>
@@ -13,3 +13,5 @@
           <img  align="left" alt="html language" width="20" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
           <img align="left"  alt="html language" width="20" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
+---
+## 🚀 My Showcase
