@@ -1,6 +1,6 @@
 ---
 ## 🛠️ My Toolbox
-<div style="display:flex; gap:20px;">
+<div style="display:flex; margin-right:20px;">
           <img alt="html language" width="30" style="padding-right:16px;" src="https://www.w3.org/WAI/content-images/wai-media-guide/body.svg" />
           <img alt="html language" width="30" style="padding-right:16px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/NVDA_Logo.png" />
 </div>
